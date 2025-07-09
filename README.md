@@ -1,2 +1,2 @@
 # MNA_SQL_REPOSITORY
-Store common case solved by sql
+Store common use case solved by sql
